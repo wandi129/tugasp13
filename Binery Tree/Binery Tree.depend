@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685891039 source:d:\folder kuliah\semester 2\struktur data\binery tree\bt.cpp
+	<iostream>
+	<string.h>
+	"BT.h"
+
+1685888627 d:\folder kuliah\semester 2\struktur data\binery tree\bt.h
+	<string>
+
+1685897304 source:d:\folder kuliah\semester 2\struktur data\binery tree\main.cpp
+	<iostream>
+	"BT.h"
+
